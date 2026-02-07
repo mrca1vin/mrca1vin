@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrca1vin
 - 👀 I’m interested in .net/ruby/python development
-- 🌱 I’m currently learning Github Copilot
 
 <!---
 mrca1vin/mrca1vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
